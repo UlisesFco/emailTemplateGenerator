@@ -54,4 +54,7 @@ Temp: 75 °F
 Palets: 12
 ```
 En msg.html se muestra un ejemplo con formato que se puede copiar
-a su servicio de correo electrónico preferido.
+a su servicio de correo electrónico preferido. Un ejemplo a continuación:
+![imagen](https://github.com/UlisesFco/emailTemplateGenerator/assets/23128764/23bbc18e-a1ac-4fe1-a1f8-866d30f5bf21)
+
+
