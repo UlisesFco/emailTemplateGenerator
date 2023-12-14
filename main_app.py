@@ -1,3 +1,14 @@
+ #  Archivo de python de la aplicación emailTemplateGenerator.
+ #
+ #  @author     Ulises Francisco Alejandre Navarro
+ #  @since      2023-12-14
+ #  @licence    MPL 2.0
+ # 
+ #  Este codigo fuente está sujeto a los términos de la Licencia Pública
+ #  de Mozilla, v. 2.0. Si una copia de la licencia no fue distribuída con
+ #  este archivo, la puede encontrar en http://mozilla.org/MPL/2.0/.
+
+
 import PySimpleGUI as sg
 import pyperclip as pc
 from pathlib import Path
