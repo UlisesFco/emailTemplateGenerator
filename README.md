@@ -11,7 +11,7 @@ Como en la siguiente imagen:
 
 El texto sin formato tendría una apariencia como la siguiente
 
-
+```
 Delivery Order: 123456789
 
 Pickup address: 1420 N RENAISSANCE BLVD NE ALBUQUERQUE NM 87107 USA
@@ -52,3 +52,6 @@ Lbs: 78
 Qty: 500
 Temp: 75 °F
 Palets: 12
+```
+En msg.html se muestra un ejemplo con formato que se puede copiar
+a su servicio de correo electrónico preferido.
